@@ -1,0 +1,5 @@
+[
+    {"prod_id":"1","prod_name":"Pencil","prod_price":"20"},
+    {"prod_id":"2","prod_name":"Eraser","prod_price":"10"},
+    {"prod_id":"3","prod_name":"Sharpener","prod_price":"5"}
+]
